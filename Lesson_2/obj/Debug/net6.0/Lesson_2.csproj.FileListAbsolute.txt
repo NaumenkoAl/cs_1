@@ -3,3 +3,13 @@ C:\Users\А\source\repos\Lesson_2\Lesson_2\obj\Debug\net6.0\Lesson_2.GeneratedMS
 C:\Users\А\source\repos\Lesson_2\Lesson_2\obj\Debug\net6.0\Lesson_2.AssemblyInfoInputs.cache
 C:\Users\А\source\repos\Lesson_2\Lesson_2\obj\Debug\net6.0\Lesson_2.AssemblyInfo.cs
 C:\Users\А\source\repos\Lesson_2\Lesson_2\obj\Debug\net6.0\Lesson_2.csproj.CoreCompileInputs.cache
+C:\Users\А\source\repos\Lesson_2\Lesson_2\bin\Debug\net6.0\Lesson_2.exe
+C:\Users\А\source\repos\Lesson_2\Lesson_2\bin\Debug\net6.0\Lesson_2.deps.json
+C:\Users\А\source\repos\Lesson_2\Lesson_2\bin\Debug\net6.0\Lesson_2.runtimeconfig.json
+C:\Users\А\source\repos\Lesson_2\Lesson_2\bin\Debug\net6.0\Lesson_2.dll
+C:\Users\А\source\repos\Lesson_2\Lesson_2\bin\Debug\net6.0\Lesson_2.pdb
+C:\Users\А\source\repos\Lesson_2\Lesson_2\obj\Debug\net6.0\Lesson_2.dll
+C:\Users\А\source\repos\Lesson_2\Lesson_2\obj\Debug\net6.0\refint\Lesson_2.dll
+C:\Users\А\source\repos\Lesson_2\Lesson_2\obj\Debug\net6.0\Lesson_2.pdb
+C:\Users\А\source\repos\Lesson_2\Lesson_2\obj\Debug\net6.0\Lesson_2.genruntimeconfig.cache
+C:\Users\А\source\repos\Lesson_2\Lesson_2\obj\Debug\net6.0\ref\Lesson_2.dll
